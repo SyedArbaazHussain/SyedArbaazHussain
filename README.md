@@ -1,4 +1,4 @@
-# Hi there, I'm Syed Arbaaz Hussain 👋
+# Hi there, I'm Syed Arbaaz Hussain
 
 [![GitHub followers](https://img.shields.io/github/followers/SyedArbaazHussain?label=Follow&style=social)](https://github.com/SyedArbaazHussain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228)
