@@ -1,7 +1,7 @@
 # Hi there, I'm Syed Arbaaz Hussain
 
-[![GitHub followers](https://img.icons8.com/ios-glyphs/20/000000/github.png)](https://github.com/SyedArbaazHussain) ![GitHub followers](https://img.shields.io/github/followers/SyedArbaazHussain?label=Follow&style=social) <!-- GitHub followers badge with Icons8 icon and count -->
-[![LinkedIn](https://img.icons8.com/?size=30&id=13930&format=png&color=000000)](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228) [![Profile Views](https://img.icons8.com/fluency/20/000000/visible.png)](https://komarev.com/ghpvc/?username=SyedArbaazHussain&color=blue) <!-- LinkedIn badge with Icons8 icon and Profile Views badge -->
+[![GitHub followers](https://img.shields.io/github/followers/SyedArbaazHussain?label=Follow&style=social)](https://github.com/SyedArbaazHussain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative projects.
 
