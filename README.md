@@ -1,7 +1,7 @@
 # Hi there, I'm Syed Arbaaz Hussain
 
 [![GitHub followers](https://img.shields.io/github/followers/SyedArbaazHussain?label=Follow&style=social)](https://github.com/SyedArbaazHussain)
-[![LinkedIn](https://img.icons8.com/?size=10&id=13930&format=png&color=000000)](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228)
+[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228)
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative projects.
 
