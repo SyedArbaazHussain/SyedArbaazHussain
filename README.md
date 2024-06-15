@@ -26,13 +26,13 @@ Here are some of my noteworthy projects:
 
 ### [PumpCare-Connect](https://github.com/SyedArbaazHussain/PumpCare-Connect)
 - **Description:** PumpCare-Connect is a comprehensive platform for managing and maintaining pump systems. It includes features for monitoring, scheduling maintenance, and generating reports to ensure optimal performance.
-- **Technologies:** ![React](https://img.icons8.com/plasticine/30/000000/react.png) ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) ![Express.js](https://img.icons8.com/?size=40&id=2ZOaTclOqD4q&format=png&color=000000) ![MySQL](https://img.icons8.com/?size=40&id=UFXRpPFebwa2&format=png&color=000000)
+- **Technologies:** ![React](https://img.icons8.com/plasticine/30/000000/react.png) ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) ![Express.js](https://img.icons8.com/?size=30&id=2ZOaTclOqD4q&format=png&color=000000) ![MySQL](https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png&color=000000)
 - ![Folders](https://img.shields.io/github/directory-file-count/SyedArbaazHussain/PumpCare-Connect?type=dir&style=for-the-badge&label=Folders)   ![Files](https://img.shields.io/github/directory-file-count/SyedArbaazHussain/PumpCare-Connect?type=file&style=for-the-badge&label=Files)
 
 ### [Portfolio](https://github.com/SyedArbaazHussain/Portfolio)
 - **Description:** This is my personal portfolio website where I showcase my skills, projects, and professional background. It includes sections for my resume, projects, blog, and contact information.
 - **Technologies:** ![HTML5](https://img.icons8.com/color/30/000000/html-5.png) ![CSS3](https://img.icons8.com/color/30/000000/css3.png) ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png)
-- ![Folders](https://img.shields.io/github/directory-file-count/SyedArbaazHussain/Portfolio?type=dir&style=for-the-badge&label=Files)   ![Files](https://img.shields.io/github/directory-file-count/SyedArbaazHussain/Portfolio?type=file&style=for-the-badge&label=Files)
+- ![Folders](https://img.shields.io/github/directory-file-count/SyedArbaazHussain/Portfolio?type=dir&style=for-the-badge&label=Folders)   ![Files](https://img.shields.io/github/directory-file-count/SyedArbaazHussain/Portfolio?type=file&style=for-the-badge&label=Files)
 
 ## 🌱 What I'm Currently Learning
 
