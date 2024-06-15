@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ![HTML5](https://img.icons8.com/color/40/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/40/000000/css3.png)
 ![Node.js](https://img.icons8.com/color/40/000000/nodejs.png)
-![Express.js](https://img.icons8.com/color/40/000000/express.png)
+![Express.js](https://img.icons8.com/?size=40&id=2ZOaTclOqD4q&format=png&color=000000)
 ![React](https://img.icons8.com/plasticine/40/000000/react.png)
-![MySQL](https://img.icons8.com/ios-filled/40/000000/mysql-logo.png)
+![MySQL](https://img.icons8.com/?size=40&id=UFXRpPFebwa2&format=png&color=000000)
 ![Git](https://img.icons8.com/color/40/000000/git.png)
 ![GitHub](https://img.icons8.com/fluent/40/000000/github.png)
 ![Docker](https://img.icons8.com/color/40/000000/docker.png)
@@ -26,7 +26,7 @@ Here are some of my noteworthy projects:
 
 ### [PumpCare-Connect](https://github.com/SyedArbaazHussain/PumpCare-Connect)
 - **Description:** PumpCare-Connect is a comprehensive platform for managing and maintaining pump systems. It includes features for monitoring, scheduling maintenance, and generating reports to ensure optimal performance.
-- **Technologies:** ![React](https://img.icons8.com/plasticine/30/000000/react.png) ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/30/000000/express.png) ![MySQL](https://img.icons8.com/ios-filled/30/000000/mysql-logo.png)
+- **Technologies:** ![React](https://img.icons8.com/plasticine/30/000000/react.png) ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) ![Express.js](https://img.icons8.com/?size=40&id=2ZOaTclOqD4q&format=png&color=000000) ![MySQL](https://img.icons8.com/?size=40&id=UFXRpPFebwa2&format=png&color=000000)
 - ![Folders](https://img.shields.io/github/directory-file-count/SyedArbaazHussain/PumpCare-Connect?type=dir&style=for-the-badge&label=Folders)   ![Files](https://img.shields.io/github/directory-file-count/SyedArbaazHussain/PumpCare-Connect?type=file&style=for-the-badge&label=Files)
 
 ### [Portfolio](https://github.com/SyedArbaazHussain/Portfolio)
