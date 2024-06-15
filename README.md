@@ -1,7 +1,7 @@
 # Hi there, I'm Syed Arbaaz Hussain
 
 [![GitHub followers](https://img.icons8.com/ios-glyphs/20/000000/github.png)](https://github.com/SyedArbaazHussain) ![GitHub followers](https://img.shields.io/github/followers/SyedArbaazHussain?label=Follow&style=social) <!-- GitHub followers badge with Icons8 icon and count -->
-[![LinkedIn](https://img.icons8.com/ios-glyphs/20/000000/linkedin.png)](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228) [![Profile Views](https://img.icons8.com/fluency/20/000000/visible.png)](https://komarev.com/ghpvc/?username=SyedArbaazHussain&color=blue) <!-- LinkedIn badge with Icons8 icon and Profile Views badge -->
+[![LinkedIn](https://img.icons8.com/?size=30&id=13930&format=png&color=000000)](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228) [![Profile Views](https://img.icons8.com/fluency/20/000000/visible.png)](https://komarev.com/ghpvc/?username=SyedArbaazHussain&color=blue) <!-- LinkedIn badge with Icons8 icon and Profile Views badge -->
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative projects.
 
@@ -40,8 +40,8 @@ Here are some of my noteworthy projects:
 
 ## 📫 How to Reach Me
 
-- ![Email](https://img.icons8.com/ios/30/000000/new-post.png) Email: [arbaaz14122002@gmail.com](mailto:arbaaz14122002@gmail.com)
-- ![LinkedIn](https://img.icons8.com/ios/30/000000/linkedin.png) LinkedIn: [Syed Arbaaz Hussain](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228)
+- ![Email](https://img.icons8.com/?size=30&id=LPcVDft9Isqt&format=png&color=000000) Email: [arbaaz14122002@gmail.com](mailto:arbaaz14122002@gmail.com)
+- ![LinkedIn](https://img.icons8.com/?size=30&id=13930&format=png&color=000000) LinkedIn: [Syed Arbaaz Hussain](https://www.linkedin.com/in/syed-arbaaz-hussain-7267ab228)
 
 ## ⚡ Fun Facts
 
