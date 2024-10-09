@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ## My Top Repositories
 [![PumpCare-Connect](https://github-readme-stats.vercel.app/api/pin/?username=SyedArbaazHussain&repo=PumpCare-Connect&theme=radical&border_radius=30)](https://github.com/SyedArbaazHussain/PumpCare-Connect)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FallSafe&repo=FallSafe&theme=radical&border_radius=30)](https://github.com/FallSafe/FallSafe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FallSafe&repo=FallSafe-yolov8&theme=radical&border_radius=30)](https://github.com/FallSafe/FallSafe-yolov8)
 
 ---
 ## 🔧 Technologies, Tools & Frameworks
