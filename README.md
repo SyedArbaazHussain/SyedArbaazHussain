@@ -50,10 +50,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
     <tr>
       <td><a href="https://github.com/FallSafe/FallSafe"><b>FallSafe</b></a></td>
       <td>A real-time fall detection system using computer vision and machine learning to analyze CCTV footage and alert caregivers.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/FallSafe/FallSafe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/FallSafe/FallSafe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Folders" src="https://img.shields.io/github/directory-file-count/FallSafe/FallSafe?type=dir&label=Folders"/></td>
-      <td><img alt="Files" src="https://img.shields.io/github/directory-file-count/FallSafe/FallSafe?type=file&label=Files"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/FallSafe/FallSafe-yolov8?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/FallSafe/FallSafe-yolov8?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Folders" src="https://img.shields.io/github/directory-file-count/FallSafe/FallSafe-yolov8?type=dir&label=Folders"/></td>
+      <td><img alt="Files" src="https://img.shields.io/github/directory-file-count/FallSafe/FallSafe-yolov8?type=file&label=Files"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/SyedArbaazHussain/PumpCare-Connect"><b>PumpCare-Connect</b></a></td>
