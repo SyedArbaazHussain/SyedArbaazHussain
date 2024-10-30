@@ -91,17 +91,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 <!-- - **Published Blog Posts:** Authored several insightful blog posts on Medium about web development and machine learning. -->
 
 ---
-<!--
 
 ### 📝 Recent Blog Posts
 
-- [**Understanding YOLOv8 for Real-Time Object Detection**](https://medium.com/@syedarbaazhussain/understanding-yolov8-for-real-time-object-detection-abc123) - An in-depth guide to the YOLOv8 model and its applications in real-time object detection.
-- [**Effective Strategies for Full-Stack Development**](https://medium.com/@syedarbaazhussain/effective-strategies-for-full-stack-development-xyz456) - Tips and strategies for successful full-stack development.
-- [**The Evolution of React and Its Ecosystem**](https://medium.com/@syedarbaazhussain/the-evolution-of-react-and-its-ecosystem-pqr789) - A look into the evolution of React and the impact of its ecosystem on modern web development.
+- [**YOLOv8 — Experience and Conclusion**](https://medium.com/@arbaaz14122002/yolov8-experience-and-conclusion-9c13b74ea668) - An overview on the YOLOv8 model and its applications in real-time object detection.
+- [**Effective Strategies for Full-Stack Development**](https://medium.com/@arbaaz14122002/effective-strategies-for-full-stack-development-5617ad951781) - Tips and strategies for successful full-stack development.
+- [**The Evolution of React and Its Ecosystem**](https://medium.com/@arbaaz14122002/the-evolution-of-react-and-its-ecosystem-f3927a70ebbb) - A look into the evolution of React and the impact of its ecosystem on modern web development.
 
 ---
 
--->
 
 ### 🤝 Collaborations
 
