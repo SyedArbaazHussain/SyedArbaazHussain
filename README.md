@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 **DevOps & Others**  
 ![Git](https://img.icons8.com/color/40/000000/git.png) ![GitHub](https://img.icons8.com/fluent/40/000000/github.png) ![Docker](https://img.icons8.com/color/40/000000/docker.png) ![YOLO](https://avatars.githubusercontent.com/u/26833451?s=40&v=4) ![OpenCV](https://img.icons8.com/?size=40&id=bpip0gGiBLT1&format=png&color=000000) ![Conda](https://img.icons8.com/?size=40&id=F4uMFPZgS0gt&format=png&color=000000) ![Jupyter](https://img.icons8.com/?size=40&id=J0SgMWzAxqFj&format=png&color=000000)
+![UiPath](https://res.cloudinary.com/brandpad/image/upload/c_scale,w_100/v1720707161/12472/240711-header-logo_0b06e675)
 
 ---
 
@@ -48,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/FallSafe/FallSafe"><b>FallSafe</b></a></td>
+      <td><a href="https://github.com/FallSafe/FallSafe"><b>FallSafe-yolov8</b></a></td>
       <td>A real-time fall detection system using computer vision and machine learning to analyze CCTV footage and alert caregivers.</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/FallSafe/FallSafe-yolov8?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/FallSafe/FallSafe-yolov8?style=flat-square&labelColor=343b41"/></td>
@@ -104,9 +105,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ### 🤝 Collaborations
 
-- **Adithi Ngatty:** Co-author of the FallSafe project.
-- **Prabuddh Shetty:** Co-author of the FallSafe project.
-- **Shreya Rao:** Co-author of the FallSafe project.
+- **[Adithi Ngatty](https://github.com/AdithiNgatty), [Prabuddh Shetty](https://github.com/Prabuddhshetty901), [Shreya Rao](https://github.com/shreyarao515):** Co-authors of the [FallSafe](https://github.com/FallSafe) project.
 
 ---
 
@@ -127,7 +126,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ## 🌐 Social Links
 
 <p align="center">
- <a href="https://github.com/SyedArbaazHussain/Portfolio" alt="Portfolio" title="Portfolio"><img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Website-icon.png"/></a>
+ <a href="https://syedarbaazhussain.github.io/Portfolio/" alt="Portfolio" title="Portfolio"><img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Website-icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="mailto:arbaaz14122002@gmail.com" alt="Email" title="Email"><img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Android_Email_8.1_Icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
