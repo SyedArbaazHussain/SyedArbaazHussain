@@ -1,8 +1,24 @@
-name: Opened by user
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.followup.user.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_followup: yes
-  plugin_followup_sections: user
+name: Generate Follow-up Metrics
+
+on:
+  issues:
+    opened:
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Follow-up Metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.followup.user.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+          output_action: none
+          # delay: 120
+          user: ${{ github.event.issue.user.login }}
+          plugins_errors_fatal: yes
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
