@@ -1,8 +1,9 @@
 name: Generate Follow-up Metrics
 
 on:
-  issues:
-    types: [opened]
+  schedule:
+    - cron: '0 0 * * 1' # Runs every Monday at midnight UTC
+  workflow_dispatch: # Allows manual execution
 
 jobs:
   generate-metrics:
@@ -20,11 +21,10 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           output_action: push
-          user: ${{ github.event.issue.user.login }}
+          user: ${{ github.actor }}
           plugins_errors_fatal: yes
 
       - name: Commit and push changes
-        if: github.event_name == 'issues' && github.event.action == 'opened'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
