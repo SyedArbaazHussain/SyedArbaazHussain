@@ -21,3 +21,10 @@ jobs:
           plugins_errors_fatal: yes
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          
+      - name: Commit and push changes
+        if: github.event_name == 'issues' # Only run on issue events
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
