@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ---
 
 ## My Top Repositories
-[![PumpCare-Connect](https://github-readme-stats.vercel.app/api/pin/?username=SyedArbaazHussain&repo=PumpCare-Connect&theme=radical&border_radius=30)](https://github.com/SyedArbaazHussain/PumpCare-Connect)
+[![PumpCare-Connect](https://github-readme-stats.vercel.app/api/pin/?username=SyedArbaazHussain&repo=PumpCare-Connect&theme=radical&border_radius=30)](https://github.com/SyedArbaazHussain/PumpCare-Connect-Old)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FallSafe&repo=FallSafe-yolov8&theme=radical&border_radius=30)](https://github.com/FallSafe/FallSafe-yolov8)
 
 ---
@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
       <td><img alt="Files" src="https://img.shields.io/github/directory-file-count/FallSafe/FallSafe-yolov8?type=file&label=Files"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/SyedArbaazHussain/PumpCare-Connect"><b>PumpCare-Connect</b></a></td>
+      <td><a href="https://github.com/SyedArbaazHussain/PumpCare-Connect-Old"><b>PumpCare-Connect</b></a></td>
       <td>A comprehensive platform for managing and maintaining pump systems, including monitoring, scheduling maintenance, and generating reports.</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SyedArbaazHussain/PumpCare-Connect?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SyedArbaazHussain/PumpCare-Connect?style=flat-square&labelColor=343b41"/></td>
