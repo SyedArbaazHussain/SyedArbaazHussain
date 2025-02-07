@@ -16,8 +16,7 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_sections: user
-          output_action: none
-          # delay: 120
+          output_action: push
           user: ${{ github.event.issue.user.login }}
           plugins_errors_fatal: yes
         env:
