@@ -1,0 +1,8 @@
+name: Opened by user
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.followup.user.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_followup: yes
+  plugin_followup_sections: user
