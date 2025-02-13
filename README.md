@@ -246,6 +246,7 @@
 <h2>🤝 Collaborations</h2>
 
 - **[Adithi Ngatty](https://github.com/AdithiNgatty), [Prabuddh Shetty](https://github.com/Prabuddhshetty901), [Shreya Rao](https://github.com/shreyarao515):** Co-authors of the [FallSafe](https://github.com/FallSafe) project.
+- **[Prabuddh Shetty](https://github.com/Prabuddhshetty901), [Shamith Kumar Shetty](https://github.com/Shamithkumarshetty):** Co-authors of the [PumpCare Connect](https://github.com/SyedArbaazHussain/PumpCare-Connect-Old) project.
 
 ###
 
