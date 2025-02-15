@@ -166,12 +166,12 @@
       <td><img alt="Files" src="https://img.shields.io/github/directory-file-count/FallSafe/FallSafe-yolov8?type=file&label=Files"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/SyedArbaazHussain/PumpCare-Connect-Old"><b>PumpCare-Connect</b></a><br>(Archived)</td>
+      <td><a href="https://github.com/SyedArbaazHussain/PumpCare-Connect"><b>PumpCare-Connect</b></a><br>(Archived)</td>
       <td>A comprehensive platform for managing and maintaining pump systems, including monitoring, scheduling maintenance, and generating reports.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SyedArbaazHussain/PumpCare-Connect-Old?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SyedArbaazHussain/PumpCare-Connect-Old?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Folders" src="https://img.shields.io/github/directory-file-count/SyedArbaazHussain/PumpCare-Connect-Old?type=dir&label=Folders"/></td>
-      <td><img alt="Files" src="https://img.shields.io/github/directory-file-count/SyedArbaazHussain/PumpCare-Connect-Old?type=file&label=Files"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SyedArbaazHussain/PumpCare-Connect?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SyedArbaazHussain/PumpCare-Connect?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Folders" src="https://img.shields.io/github/directory-file-count/SyedArbaazHussain/PumpCare-Connect?type=dir&label=Folders"/></td>
+      <td><img alt="Files" src="https://img.shields.io/github/directory-file-count/SyedArbaazHussain/PumpCare-Connect?type=file&label=Files"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/SyedArbaazHussain/Portfolio"><b>Portfolio</b></a></td>
@@ -246,7 +246,7 @@
 <h2>🤝 Collaborations</h2>
 
 - **[Adithi Ngatty](https://github.com/AdithiNgatty), [Prabuddh Shetty](https://github.com/Prabuddhshetty901), [Shreya Rao](https://github.com/shreyarao515):** Co-authors of the [FallSafe](https://github.com/FallSafe) project.
-- **[Prabuddh Shetty](https://github.com/Prabuddhshetty901), [Shamith Kumar Shetty](https://github.com/Shamithkumarshetty):** Co-authors of the [PumpCare Connect](https://github.com/SyedArbaazHussain/PumpCare-Connect-Old) project.
+- **[Prabuddh Shetty](https://github.com/Prabuddhshetty901), [Shamith Kumar Shetty](https://github.com/Shamithkumarshetty):** Co-authors of the [PumpCare Connect](https://github.com/SyedArbaazHussain/PumpCare-Connect) project.
 
 ###
 
