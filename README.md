@@ -20,18 +20,6 @@
 
 <hr>
 
-<br>
-
-###
-
-<h2 align="left">GitHub Achievements</h2>
-  
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SyedArbaazHussain&theme=monokai&column=4&row=2&margin-w=6&margin-h=6&no-bg=true&no-frame=true&order=4" height="300" alt="trophy graph"  />
-</div>
-
 ###
 
 <h2 align="left">🔧 Technologies and Tools</h2>
