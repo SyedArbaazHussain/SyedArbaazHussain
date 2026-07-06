@@ -4,9 +4,9 @@
 
 <table>
   <tr>
-    <td width="340">
+   <!-- <td width="340">
       <img src="https://raw.githubusercontent.com/SyedArbaazHussain/Portfolio/gh-pages/me-head-circle.png" width="350" />
-    </td>
+    </td> -->
     <td>
       <h1> <strong>SYED ARBAAZ HUSSAIN</strong></h1>
       <h3><em>AS400 Developer • Full-Stack Developer • Software Developer</em></h3>
@@ -14,7 +14,7 @@
 
 <picture>
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedArbaazHussain&theme=github_dark" media="(prefers-color-scheme: dark)">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedArbaazHussain&theme=github" height="185">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedArbaazHussain&theme=github" height="165">
 </picture>
     </td>
   </tr>
