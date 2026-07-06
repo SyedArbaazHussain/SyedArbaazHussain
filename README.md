@@ -9,7 +9,7 @@
     </td> -->
     <td>
       <h1> <strong>SYED ARBAAZ HUSSAIN</strong></h1>
-      <h3><em>AS400 Developer • Full-Stack Developer • Software Developer</em></h3>
+      <h4><em>AS400 Developer • Full-Stack Developer • Software Developer</em></h4>
 <!-- <h5>Engineering scalable systems, real-time intelligence pipelines, and high-impact digital experiences.</h5> -->
 
 <picture>
